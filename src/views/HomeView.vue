@@ -1,11 +1,11 @@
 <template>
   <div>
-    hello
+    <h1>Symptom Checker App</h1>
   </div>
 </template>
 
 <script>
 export default {
-  name: 'HomePage',
+  name: 'HomeView',
 }
 </script>
